@@ -11,4 +11,3 @@ def reverse_each_word(sentence)
   sentence_array.join(" ")
   binding.pry
 end
-binding.pry
